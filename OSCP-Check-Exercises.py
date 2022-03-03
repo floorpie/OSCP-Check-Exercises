@@ -1,3 +1,9 @@
+# Forked from original mushroom-hat script - https://github.com/mushroom-hat/OSCP-Check-Exercises
+#
+# The exercise numbers WILL BE updated to reflect the exercise numbering used in the Offensive Security Training Library (Learn One subscription)
+#
+# floorp.ie - 03032022
+
 import docx2txt
 import sys
 
