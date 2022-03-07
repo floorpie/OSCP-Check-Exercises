@@ -2,14 +2,18 @@
 # All credit to mushroom-hat
 #
 # The exercise numbers WILL BE updated to reflect the exercise numbering used in the Offensive Security Training Library (Learn One subscription)
-# floorp.ie - 03032022
+# floorp.ie - 07032022
 
 import docx2txt
 import sys
 
 def check_exercises(filename):
     exercises = [
-        '2.4.4.4', #You are here...:)# 
+        '2.4.4.1', 
+        '2.4.4.2',
+        '2.4.4.3',
+        '2.4.4.4',
+        '2.4.4.5',#You are here...:)# 
         '3.1.3.1',
         '3.2.5.1',
         '3.3.5.1',
